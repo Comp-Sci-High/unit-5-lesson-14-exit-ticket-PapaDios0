@@ -2,3 +2,6 @@
 // Make sure that the function takes the name of the potion as a parameter
 // There are already potion's with the label polyjuice or amortentia
 
+async function testCode(label){
+    
+}
